@@ -1,16 +1,11 @@
 # 💫 Hi 👋, I'm AmanDevX
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+## 👋 Hi, I’m Aman — AmanDevX-studio
 
-Email Me 👉 ✉️ **AmanDevX-studio@live.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+🚀 Passionate Web Developer & Future Ethical Hacker  
+🌐 Skilled in HTML | CSS | JavaScript | Learning Python & DevOps  
+🧠 Currently exploring networking, backend & cloud technologies  
+🤝 Open to collaboration on beginner projects & web tools  
+📩 Reach me: AmanDevX-studio@live.com | [www.by-bio-tech.com](https://www.by-bio-tech.com)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanDevX-Studio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
