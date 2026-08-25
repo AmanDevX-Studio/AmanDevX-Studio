@@ -3,7 +3,7 @@
 🌐 Skilled in HTML | CSS | JavaScript | Learning Python & DevOps  
 🧠 Currently exploring networking, backend & cloud technologies  
 🤝 Open to collaboration on beginner projects & web tools  
-📩 Reach me: AmanSeoStar@gmail.com | [www.by-bio-tech.com](https://www.by-bio-tech.com)
+📩 Reach me: AmanSeoStar@gmail.com | [www.NextLearnAI.com](http://nextlearnai.com/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanDevX-Studio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
